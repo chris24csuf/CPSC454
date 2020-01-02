@@ -10,9 +10,11 @@ Starts the project with 4 processes. If there is only one node, then 4 processes
 The "run_project.py" is used by the main program.
 
 Screenshots provided for project work.
+
 More information on progress report documentation.
 
 References:
+
 StarCluster
 http://star.mit.edu/cluster
 
