@@ -1,1 +1,0 @@
-Screenshots relating to coursework
