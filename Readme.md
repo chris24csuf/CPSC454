@@ -2,6 +2,6 @@
 
 ## Table of Contents
 - [Technologies]()
-- [Assignments]()
 - [Project]()
-- [Environment Setup and Compiling]()
+ - [DC2S]()
+- [Compiling]()
