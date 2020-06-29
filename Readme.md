@@ -7,6 +7,7 @@ Cloud computing and cloud security, distributed computing, computer clusters, gr
  - [DC2S](#dc2s)
 
 ## Technologies
+Project created with:
 - Java
 - MPI
 - Python
