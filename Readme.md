@@ -1,4 +1,4 @@
-# CPSC454
+# CPSC454: Cloud Computing & Security
 Cloud computing and cloud security, distributed computing, computer clusters, grid computing, virtual machines and virtualization, cloud computing platforms and deployment models, cloud programming and software environments, vulnerabilities and risks of cloud computing, cloud infrastructure protection, data privacy and protection.
 
 ## Table of Contents
